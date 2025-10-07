@@ -12,9 +12,9 @@
             <a href=""></a>
             <div class="space-x-6 font-semibold">
                 <a class="hover:text-emerald-600" href="#">Home</a>
-                <a class="hover:text-emerald-600" href="information.html">Information</a>
-                <a class="hover:text-emerald-600" href="tutorial.html">Tutorial</a>
-                <a class="hover:text-emerald-600" href="discussion.html">Discussion</a> 
+                <a class="hover:text-emerald-600" href="information.php">Information</a>
+                <a class="hover:text-emerald-600" href="tutorial.php">Tutorial</a>
+                <a class="hover:text-emerald-600" href="discussion.php">Discussion</a> 
             </div>
             <a href="login.php">
             <button class="bg-emerald-600 text-white px-4 py-2 rounded-3xl ">Daftar/Masuk</button>

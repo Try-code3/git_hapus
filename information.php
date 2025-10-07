@@ -13,10 +13,10 @@
     <div class="container mx-auto flex items-center justify-between py-5 space-x-2">
       <a href="#" class="text-xl font-bold text-emerald-600">GreenEnergy</a>
       <div class="space-x-6 font-semibold">
-        <a class="hover:text-emerald-600" href="index.html">Home</a>
+        <a class="hover:text-emerald-600" href="index.php">Home</a>
         <a class="hover:text-emerald-600" href="#">Information</a>
-        <a class="hover:text-emerald-600" href="tutorial.html">Tutorial</a>
-        <a class="hover:text-emerald-600" href="discussion.html">Discussion</a>
+        <a class="hover:text-emerald-600" href="tutorial.php">Tutorial</a>
+        <a class="hover:text-emerald-600" href="discussion.php">Discussion</a>
       </div>
       <button class="bg-emerald-600 text-white px-4 py-1 rounded-3xl hover:bg-emerald-700 transition">
         Daftar/Masuk

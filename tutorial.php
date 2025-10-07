@@ -11,10 +11,10 @@
     <div class="container mx-auto flex items-center justify-between py-5 space-x-2">
       <a href="#" class="text-xl font-bold">GreenEnergy</a>
       <div class="space-x-6 font-semibold">
-        <a class="hover:underline" href="index.html">Home</a>
-        <a class="hover:underline" href="information.html">Information</a>
+        <a class="hover:underline" href="index.php">Home</a>
+        <a class="hover:underline" href="information.php">Information</a>
         <a class="hover:underline" href="#">Tutorial</a>
-        <a class="hover:underline" href="discussion.html">Discussion</a>
+        <a class="hover:underline" href="discussion.php">Discussion</a>
       </div>
       <button class="bg-emerald-600 text-white px-4 py-1 rounded-3xl hover:bg-emerald-700 transition">
         Daftar/Masuk
