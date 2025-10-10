@@ -16,9 +16,11 @@
         <a class="hover:underline" href="#">Tutorial</a>
         <a class="hover:underline" href="discussion.php">Discussion</a>
       </div>
+      <a href = "login.php">
       <button class="bg-emerald-600 text-white px-4 py-1 rounded-3xl hover:bg-emerald-700 transition">
         Daftar/Masuk
       </button>
+      </a>
     </div>
   </nav>
       
