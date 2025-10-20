@@ -29,9 +29,11 @@
       <h4 class="text-center text-white text-2xl font-light font-poppins">for a better life</h4>
       <!--p class="text-sm sm:text-base text-gray-200">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur repellat soluta iste dolore molestias dolores!</p-->
       <div class="flex justify-center mt-4">
-        <button class="bg-emerald-600 text-white px-4 py-2 rounded-3xl border-transparent hover:border-emerald-600 hover:text-emerald-600 hover:bg-white transition">
-          Daftar/Masuk
-        </button>
+        <a href="login.php">
+          <button class="bg-emerald-600 text-white px-4 py-2 rounded-3xl border-transparent hover:border-emerald-600 hover:text-emerald-600 hover:bg-white transition">
+            Daftar/Masuk
+          </button>
+        </a>
       </div>
     </div>
  </section>

@@ -80,7 +80,7 @@ $postingan = $conn->query("
       <form method="POST" enctype="multipart/form-data" class="mb-6 bg-white p-4 rounded-lg shadow">
         <h2 class="text-lg font-semibold mb-3 text-emerald-700">Buat Postingan Baru</h2>
         <textarea name="content" rows="3" required class="w-full border border-gray-300 rounded-lg p-2 mb-3" placeholder="Tulis sesuatu..."></textarea>
-        <input type="file" name="image" accept="image/*" class="mb-3 block w-full text-sm text-gray-600">
+        <input type="file" name="image" accept="image/*" class="mb-3 block w-full text-sm text-balck-900">
         <button type="submit" class="bg-emerald-600 text-white px-4 py-2 rounded-lg hover:bg-emerald-700 transition">
           Posting
         </button>
