@@ -25,22 +25,92 @@
 
        <!-- Hero -->
   <!-- Hero Section -->
-<section class="relative bg-cover bg-center" style="background-image: url(img/tutorr.jpg); height: 200px;">
+<section class="relative mb-4 bg-cover bg-center" style="background-image: url(img/tutorr.jpg); height: 200px;">
   <!-- search button -->
-  <div class="justify-center absolute inset-0 bg-black/40 flex ">
-    <div class="items-center bg-gray-400 rounded-full px-3 py-2 w-90 border-emerald-600">
-        <div class="bg-white rounded-full px-3 flex">
+  <div class="justify-center absolute inset-0 bg-black/40 flex-col">
+    <div class="items-center bg-gray-400 rounded-full px-3 py-2 w-90 border-emerald-600 flex-col">
+        <div class="bg-white rounded-full px-3 w-1/4 flex mb-10">
           <input type="text" placeholder="Cari"
             class="flex-grow text-gray-700 placeholder-gray-400" />
           <button class="text-gray-500 hover:text-emerald-600">🔍</button>
         </div>
       </div>
-  </div>  
+    <h1 class="text-4xl text-center text-white font-semibold">Menerapkan Energi Bersih Dalam Kehidupan Sehari-hari</h1> 
+  </div> 
+  
 </section>
 
-      <!-- search and category -->
-    <section class="container flex items-center justify-center">
-      
-    </section>
+<section class="px-6 py-10 bg-gray-50 ">
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+    <!-- Card 1 -->
+    <a href="link-tujuan.html" 
+       class="block rounded-xl bg-white shadow-sm hover:shadow-lg transition duration-300 p-2 text-center mb-3">
+      <div class="flex justify-center">
+        <img src="img/cover.jpg" 
+             alt="gambar tutorial" 
+             class="rounded-xl w-11/12 h-48 object-cover">
+      </div>
+      <p class="mt-4 font-semibold text-gray-900 mb-5">Judul tutorial 0</p>
+    </a>
+    
+    <!-- card 2 -->
+     <a href="link-tujuan.html" 
+       class="block rounded-xl bg-white shadow-sm hover:shadow-lg transition duration-300 p-2 text-center mb-3">
+      <div class="flex justify-center">
+        <img src="img/cover.jpg" 
+             alt="gambar tutorial" 
+             class="rounded-xl w-11/12 h-48 object-cover">
+      </div>
+      <p class="mt-4 font-semibold text-gray-900 mb-5">Judul tutorial 1</p>
+    </a>
+
+     <!-- card 3 -->
+     <a href="link-tujuan.html" 
+       class="block rounded-xl bg-white shadow-sm hover:shadow-lg transition duration-300 p-2 text-center mb-3">
+      <div class="flex justify-center">
+        <img src="img/cover.jpg" 
+             alt="gambar tutorial" 
+             class="rounded-xl w-11/12 h-48 object-cover">
+      </div>
+      <p class="mt-4 font-semibold text-gray-900 mb-5">Judul tutorial 2</p>
+    </a>
+
+     <!-- card 4 -->
+     <a href="link-tujuan.html" 
+       class="block rounded-xl bg-white shadow-sm hover:shadow-lg transition duration-300 p-2 text-center mb-3">
+      <div class="flex justify-center">
+        <img src="img/cover.jpg" 
+             alt="gambar tutorial" 
+             class="rounded-xl w-11/12 h-48 object-cover">
+      </div>
+      <p class="mt-4 font-semibold text-gray-900 mb-5">Judul tutorial 3</p>
+    </a>
+
+    <!-- card 5 -->
+     <a href="link-tujuan.html" 
+       class="block rounded-xl bg-white shadow-sm hover:shadow-lg transition duration-300 p-2 text-center mb-3">
+      <div class="flex justify-center">
+        <img src="img/cover.jpg" 
+             alt="gambar tutorial" 
+             class="rounded-xl w-11/12 h-48 object-cover">
+      </div>
+      <p class="mt-4 font-semibold text-gray-900 mb-5">Judul tutorial 4</p>
+    </a>
+
+    <!-- card 6 -->
+     <a href="link-tujuan.html" 
+       class="block rounded-xl bg-white shadow-sm hover:shadow-lg transition duration-300 p-2 text-center mb-3">
+      <div class="flex justify-center">
+        <img src="img/cover.jpg" 
+             alt="gambar tutorial" 
+             class="rounded-xl w-11/12 h-48 object-cover">
+      </div>
+      <p class="mt-4 font-semibold text-gray-900 mb-5">Judul tutorial 5</p>
+    </a>
+
+    <!-- Tambahkan card lain sesuai kebutuhan -->
+  </div>
+</section>
+
 </body>
 </html>

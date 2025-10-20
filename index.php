@@ -17,7 +17,7 @@
                 <a class="hover:text-emerald-600" href="discussion.php">Discussion</a> 
             </div>
             <a href="login.php">
-            <button class="bg-emerald-600 text-white px-4 py-2 rounded-3xl ">Daftar/Masuk</button>
+            <button class="bg-emerald-600 text-white px-4 py-2 rounded-3xl hover:border-emerald-600 hover:text-emerald-600 hover:bg-white transition ">Daftar/Masuk</button>
             </a>
         </div>
       </nav>
